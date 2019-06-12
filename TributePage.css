@@ -1,0 +1,40 @@
+header {
+    text-decoration: underline;
+  }
+  #main {
+    margin: 15px auto;
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 5px;
+    background: linear-gradient(to bottom, #daa520, #987316);
+  }
+  body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  #img-div {
+    margin: -5px;
+    margin-top: 10px;
+    width: 100%;
+    border: 2px solid white;
+    background: #daa520;
+  }
+  #image {
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+  #img-caption {
+    margin: 20px;
+  }
+  ul {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 650px;
+  }
+  li {
+    margin: 10px;
+    list-style: square;
+  }
+  
